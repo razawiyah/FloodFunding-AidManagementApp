@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/a_custom_card_icon.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/a_custom_input.xml" value="0.108" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/c_custom_input.xml" value="0.2395" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/c_custom_money.xml" value="0.2395" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_custom_address_icon.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_custom_calendar_icon.xml" value="0.152" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_custom_input.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_address.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_address_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_calendar.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_calendar_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_card.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_card_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_email.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_email_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_house.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_house_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_household.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_household_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_name.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_name_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_password.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_password_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_phone.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable-v24/v_ic_phone_focused.xml" value="0.1645" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_custom_address_icon.xml" value="0.244" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_custom_card_icon.xml" value="0.108" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_custom_input.xml" value="0.244" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_address.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_approve.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_calendar.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_house.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_household.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/a_ic_water.xml" value="0.235" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/c_ic_money.xml" value="0.2395" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/c_ic_money_focused.xml" value="0.2395" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/v_custom_address_icon.xml" value="0.152" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/v_ic_approve.xml" value="0.1185" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/v_ic_phone.xml" value="0.1185" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/drawable/v_ic_water.xml" value="0.1185" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout-v28/activity_vmenu_post_aid_application.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/a_data_cont.xml" value="0.1" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/a_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_amenu.xml" value="0.22552083333333334" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_amenu_aid_application_list.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_amenu_donation_history.xml" value="0.25" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_amenu_post_aid_approval.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_cmenu.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_cmenu_donation_history.xml" value="0.21302083333333333" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_cmenu_donation_page.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_cmenu_donation_receipt.xml" value="0.25" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_cmenu_payment_gate.xml" value="0.25" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_register.xml" value="0.22895791583166333" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_vmenu.xml" value="0.25" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_vmenu_aid_application_status.xml" value="0.264" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/activity_vmenu_post_aid_application.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/ah_data_cont.xml" value="0.1" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/c_data_cont.xml" value="0.1" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/dropdown_item.xml" value="0.24909420289855072" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/processing_page.xml" value="0.23802083333333332" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/layout/v_data_cont.xml" value="0.17083333333333334" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.138" />
+        <entry key="..\:/000 SOFTWARE ENGINEER JOURNEY/FloodFunding/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="aidStatusBtn" type="id" />
+    <item name="aidApplyBtn" type="id" />
+    <item name="logoutBtn" type="id" />
+    <item name="progressBar4" type="id" />
+    <item name="profilePicture" type="id" />
+    <item name="userName" type="id" />
+    <item name="userIC" type="id" />
+    <item name="userEmail" type="id" />
+    <item name="userPhone" type="id" />
+    <item name="donateBtn" type="id" />
+</resources>

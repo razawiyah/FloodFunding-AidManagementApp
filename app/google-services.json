@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384488604373",
+    "project_id": "floodfunding-e9f4f",
+    "storage_bucket": "floodfunding-e9f4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384488604373:android:474e878509cbfe27d0185c",
+        "android_client_info": {
+          "package_name": "com.example.floodfunding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384488604373-3vasq0j6r1869b9dk20bj5erhel6v229.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1HZOimEtA-jf9UEw8pHsX0_WLTlkcYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384488604373-3vasq0j6r1869b9dk20bj5erhel6v229.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

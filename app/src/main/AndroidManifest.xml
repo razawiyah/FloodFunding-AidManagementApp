@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.floodfunding">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.FloodFunding">
+        <activity
+            android:name=".a_menu_aidApplicationList"
+            android:exported="false" />
+        <activity
+            android:name=".a_menu_DonationHistory"
+            android:exported="false" />
+        <activity
+            android:name=".a_menu_postAidApproval"
+            android:exported="false" />
+        <activity
+            android:name=".c_menu_donationReceipt"
+            android:exported="false" />
+        <activity
+            android:name=".c_menu_donationPage"
+            android:exported="false" />
+        <activity
+            android:name=".c_menu_donationHistory"
+            android:exported="false" />
+        <activity
+            android:name=".v_menu_aidApplicationStatus"
+            android:exported="false" />
+        <activity
+            android:name=".v_menu_postAidApplication"
+            android:exported="false" />
+        <activity
+            android:name=".a_menu"
+            android:exported="false" />
+        <activity
+            android:name=".c_menu"
+            android:exported="false" />
+        <activity
+            android:name=".v_menu"
+            android:exported="false" />
+        <activity
+            android:name=".register"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
